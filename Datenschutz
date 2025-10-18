@@ -1,0 +1,46 @@
+Datenschutzerklärung
+
+Stand: 19. Oktober 2025
+
+Wir nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Diese Datenschutzerklärung beschreibt, wie wir Daten in unserer mobilen App "Collection Hub" (im Folgenden "App" genannt) erheben, verwenden und schützen.
+
+**1. Verantwortliche Stelle**
+
+Verantwortlicher für die Datenverarbeitung im Sinne der Datenschutzgesetze ist:
+
+[Nick Nowak]
+[38304 Wolfenbüttel]
+[Deutschland]
+E-Mail: info@nwk-productions.de
+
+**2. Datenerhebung und -verwendung**
+
+Diese App ist ein Kartenscanner für Sammelkartenspiele (TCG).
+
+**Nutzung der Kamera (Berechtigung: android.permission.CAMERA)**
+
+Um ihre Kernfunktionalität – das Scannen von Sammelkarten – zu erfüllen, benötigt die App Zugriff auf die Kamera Ihres Geräts.
+
+Wir möchten klarstellen, wie dieser Zugriff genutzt wird:
+
+* **Zweck:** Der Kamerazugriff wird ausschließlich dazu verwendet, ein Live-Bild der Sammelkarte aufzunehmen, um diese zu identifizieren.
+* **Verarbeitung:** Die Bildanalyse und Kartenerkennung erfolgen **ausschließlich lokal auf Ihrem Gerät**.
+* **Keine Speicherung, keine Übertragung:** Die von der Kamera erfassten Bilder oder Videodaten werden von uns **nicht gespeichert**, **nicht an unsere Server gesendet** und **nicht an Dritte** weitergegeben. Der Vorgang geschieht in Echtzeit; es werden keine Bilddateien auf Ihrem Gerät abgelegt, es sei denn, Sie veranlassen dies explizit durch eine Speicherfunktion (falls vorhanden).
+
+**3. Datenerhebung durch Dritte (Optional, aber empfohlen)**
+
+Um die Stabilität und Leistung der App zu verbessern, verwenden wir möglicherweise anonymisierte Absturzberichte und Nutzungsstatistiken über Dienste wie Google Firebase Crashlytics oder Google Analytics. Diese Dienste erheben keine personenbezogenen Daten, die Sie direkt identifizieren (z. B. keine Kamerabilder oder persönliche Eingaben), sondern nur technische Daten (z. B. Gerätetyp, Betriebssystemversion, Absturzprotokolle).
+
+**4. Weitergabe von Daten**
+
+Es erfolgt keine Weitergabe von personenbezogenen Daten an Dritte, da durch die Kernfunktion der App (Kamerascanner) keine personenbezogenen Daten erhoben oder gespeichert werden.
+
+**5. Ihre Rechte**
+
+Da wir keine personenbezogenen Daten speichern, sind Anfragen auf Auskunft, Berichtigung oder Löschung von Daten, die durch den Scan-Prozess entstehen, nicht anwendbar. Sollten Sie Fragen zum Datenschutz in unserer App haben, können Sie uns jederzeit unter der oben genannten E-Mail-Adresse kontaktieren.
+
+**6. Änderungen dieser Datenschutzerklärung**
+
+Wir behalten uns das Recht vor, diese Datenschutzerklärung anzupassen, damit sie stets den aktuellen rechtlichen Anforderungen entspricht oder um Änderungen unserer Leistungen in der Datenschutzerklärung umzusetzen. Für Ihren erneuten Besuch gilt dann die neue Datenschutzerklärung.
+
+---
